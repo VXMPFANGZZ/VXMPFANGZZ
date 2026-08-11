@@ -6,7 +6,7 @@
   <img src="https://github.com/VXMPFANGZZ/Ghostlygunz/blob/main/music%20notes%20aww.gif?raw=true" alt="mi strawpage" width="100%">
   Strawpage for my self expression. No signs.
     <td valign="top" width="45%">
-      <img src="https://github.com/VXMPFANGZZ/Ghostlygunz/blob/main/me.%20casper..png?raw=true" width="300%" alt="Main Character">
+      <img src="https://github.com/VXMPFANGZZ/VXMPFANGZZ/blob/main/my%20casper%20x%20dean%20drawing.png?raw=true" width="300%" alt="Main Character">
     </td>  <!-- RIGHT SIDE: STATS, TEXT, AND DESIGNED GRAPHICS -->
     <td valign="top" width="55%" style="padding-left: 20px;">  <!-- Custom Header Graphic (Top Ribbon Box) -->
       <img src="https://github.com/VXMPFANGZZ/Ghostlygunz/blob/main/dean%20raylor.gif?raw=true"100%"><br><br> <!-- Text Bio Area -->
